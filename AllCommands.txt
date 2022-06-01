@@ -1,0 +1,285 @@
+!!
+!!	Повторить последнюю команду
+A
+alias	Создать псевдоним команды
+alloc	Показать распределения занятой и свободной памяти
+apropos	Search the whatis database for strings
+awk	Найти и выполнить действия на основании текста в файле (файлах) и шаблона.
+B
+basename	Преобразует полный путь к файлу в короткое имя файла
+bash	Запустить командный интерпретатор SHell
+bg	Выполнить в фоновом режиме (*)
+bind	Display readline key and function bindings •
+bless	Сделать том диска загрузочным
+break	Прервать цикл вызванный командами For, While, Until or Select
+builtin	Execute a shell builtin •
+bzip2	Упаковать или распаковать файлы в командной строке терминала
+C
+cal	Вывести календарь на заданный год и месяц. Показать дату Пасхи
+caller	Return the context of a subroutine call •
+case	Оператор условного перехода в скриптах bash (*)
+cat	Соединить файлы в один и вывести их в стандартный вывод
+cd	Сменить папку
+chflags	Поменять признаки ("флаги") файлов и папок
+chgrp	Изменить группу владельца файлов
+chmod	Изменить права доступа к файлам и папкам через terminal
+chown	Поменять собственника файла и группу
+chroot	Сменить для команды root каталог
+cksum	Вывести размер файла и контрольную сумму CRC
+clear	Очистить экран терминала
+cmp	Сравнить два файлапобайтно
+comm	Сравнить два отсортированных построчно файла
+command	Run a command (not a function) •
+complete	Edit a command completion [word/pattern/list] •
+configd	Демон управления конфигурацией
+continue	Вернуться в начало цикла и продолжить выполнение цикла (•)
+cp	Скопировать один или несколько файлов в другое место
+cron	Утилита исполнения запланированных команд
+crontab	Команда управления графиком команд для cron
+csplit	Разделить файл на части согласно шаблону поиска
+curl	Скачать данные с сервера или закачать на сервер
+cut	Разделить файл на части
+D
+date	Вывести на экран и поменять системное время и дату
+dc	Простой экранный калькулятор
+dd	Сделать дамп данных - скопировать и сконвертировать входные данные.
+declare	Declare variable & set attributes •
+defaults	Установка настроек по умолчанию для приложений
+df	Показать свободное дисковое пространство
+diff	Сравнить два файла построчно
+diff3	Показать различия между тремя файлами
+dig	Получить имя DNS сервера
+dirname	Преобразует полный путь к файлу в путь без имени файла
+dirs	Display list of remembered directories •
+diskutil	Дисковая утилита для командной строки Apple (проверка, восстановление, исправление дисков)
+disown	Unbind a job from the current login session •
+ditto	Скопировать и заархивировать файлы и каталоги
+dot_clean	Удалить файлы AppleDouble ._ и объеденить "ресурсы" файлов
+drutil	Interact with CD/DVD burners
+dscacheutil	Выполнить запрос о состоянии кэша и его параметрах или сделать его сброс
+dseditgroup	Edit, create, manipulate, or delete groups
+dsenableroot	Включить/отключить учетную запись root пользователя
+dsmemberutil	View user and groups rights
+dscl	Directory Service command line utility
+du	Показать объем дискового пространства занимаемый файлами и папками
+E
+echo	Вывести сообщение на дисплей •
+ed	A line-oriented text editor (edlin)
+enable	Enable and disable builtin shell commands •
+env	Показать и установить значения переменных окружения
+eval	Evaluate several commands/arguments •
+exec	Execute a command •
+exit	Exit the shell •
+expand	Заменить символы табуляции на символы пробелов
+expect	Programmed dialogue with interactive programs Also see AppleScript
+export	Set an environment variable •
+expr	Evaluate expressions
+F
+false	Do nothing, unsuccessfully
+fc	Fix command (history)
+fdisk	Управление таблицей разделов в Darwin UFS/HFS/DOS
+fg	Send job to foreground •
+file	Determine file type
+find	Поиск файлов по определенным критериям
+fmt	Форматирование текстового файла по абзацам.
+fold	Уменьшить длину строк при выводе файла на экран терминала
+for	Команда создания цикла в скрипте терминала
+fsck	Проверка и восстановление файловой системы
+fsaclctl	Filesystem enable/disable ACL support
+fs_usage	Отобразить обращения процессами к файловой системе
+ftp	Терминальный FTP клиент
+G
+GetFileInfo	Получить атрибуты для файлов HFS+
+getopt	Parse positional parameters
+getopts	Parse positional parameters •
+goto	Jump to label and continue execution
+grep	Искать строки в файлах по заданному шаблону.
+groups	Вывести список групп в которые входит указанный пользователь
+gzip	Сжатие (архивация) и распаковка файлов
+H
+halt	Остановить и перезапустить Mac OS X из командной строки терминала
+hash	Refresh the cached/remembered location of commands •
+head	Display the first lines of a file
+hdiutil	Manipulate iso disk images
+history	Показать историю выполненных команд
+hostname	Вывести имя компьютера и узла сети
+I
+iconv	Перекодировать данные или файл
+id	Вывести имя пользователя, имя его групп и их ID
+if	Выполнение по условию (*)
+ifconfig	Конфигурировать настройки сети
+ipconfig	Посмотреть и настроить IP-адрес и сетевое подключение
+info	Help info
+install	скопировать файлы и установить атрибуты
+J
+jobs	List active jobs •
+join	Join lines on a common field
+K
+kextfind	List kernel extensions
+kickstart	Configure Apple Remote Desktop
+kill	Остановить запущенный процесс
+killall	Завершить все процессы
+L
+l	Вывести список файлов в длинном формате (ls -l)
+last	Вывести список сессий пользователей и tty и длительность
+launchd	Менеджер выполнения заданий для Darwin
+launchctl	Утилита управления для launchchd
+ll	Вывести список файлов в длинном формате, включая скрытые файлы (ls -la)
+less	Display output one screen at a time
+let	Evaluate expression •
+lipo	Convert a universal binary
+ln	Создание жестких и символических ссылок
+local	Set a local (function) variable •
+locate	Поиск файлов
+logname	Напечатать имя текущего пользователя
+login	Авторизация и вход пользователя в систему.
+logout	Выйти из системы (bye) •
+look	Показать строки начинающиеся с заданной
+lpr	Напечатать файл
+lprm	Удалить задание из очереди на печать
+lpstat	Получить информацию о состоянии системы печати
+ls	Показать информацию о папке и файлах about file(s)
+lsregister	Reset the Launch Services database
+lsbom	Вывести содержимое bom файлов
+lsof	Показать список открытых файлов
+M
+man	Получить описание команды (хелп)
+mdfind	Поиск Spotlight в терминале
+mdutil	Управление хранением данных поиска Spotlight
+mkdir	Создать новую папку
+mkfifo	Make FIFOs (named pipes)
+more	Display output one screen at a time
+mount	смонтировать файловую систему в mac OS X
+mount_ntfs	смонтировать диск с файловой системой NTFS
+mv	Переместить или переименовать файлы
+N
+nano	Простой текстовый редактор
+net	Управление сетевыми ресурсами
+netstat	Показать маршруты и состояние сетевых соединений.
+networksetup	Network and System Preferences
+nice	Set the priority of a command
+nohup	Run a command immune to hangups
+ntfs.util	Утилита управления дисками формата NTFS
+O
+onintr	Control the action of a shell interrupt
+open	Открыть файл, папку или страницу по URL
+opensnoop	Отслеживать и показывать открытие файлов приложениями
+osacompile	Скомпилировать Applescript
+osalang	Получить информацию о поддерживаемых языках скриптов в Mac OS X.
+osascript	Выполнить AppleScript или скрипт написанный на OSA
+P
+passwd	Поменять пароль пользователя в mac os x
+paste	Соединить строки в файлах
+pbcopy	Скопировать данные в Clipboard
+pbpaste	Вставить данные из Clipboard
+ping	Протестировать сетевое соединение
+pkgutil	Query and manipulate installed packages
+plutil	Утилита для работы с файлами настроек plist в Mac OS X
+pmset	Настройка управления питанием вашего компьютера
+popd	Restore the previous value of the current directory •
+pr	Преобразовать и распечатать файлы
+printenv	Вывести список и значения переменных окружения.
+printf	Форматированный вывод данных •
+ps	Показать статус процесса
+purge	Освободить "неактивную" память. Может потребоваться установленный XCode
+pushd	Save and then change the current directory
+pwd	Вывести имя текущей папки
+Q
+quota	Показать ограничения на использования дискового пространства
+R
+rcp	Copy files between machines
+read	Прочитать одну строку из стандартного ввода •
+readonly	Mark a variable or function as read-only •
+reboot	Остановить и перезагрузить систему
+return	Exit a function •
+rev	Обратный порядок символов в строках файла
+rm	Удалить файлы
+rmdir	Удалить папки
+rpm	Remote Package Manager
+rs	Преобразовать массив из стандартного ввода
+rsync	Удаленное копирование. Синхронизация деревьев каталогов.
+S
+say	Преобразовать текст в речь
+screen	Multiplex terminal, run remote shells via ssh
+screencapture	Захватить изображение с экрана на диск
+scutil	Управление системными параметрами
+sdiff	Сравнить два файла и показать различия в двухколоночном варианте.
+security	Administer Keychains, keys, certificates and the Security framework
+sed	Потоковый редактор
+select	Генерировать список выбора (*)
+set	Set a shell variable = value (•)
+setfile	Установить или изменить атрибуты файла в HFS+
+sh	Запустить командный интерпретатор скрипта в режиме совместимости POSIX
+shift	Shift positional parameters (•)
+shopt	Set shell options (•)
+shutdown	Остановить и перезагрузить Mac OS X
+sips	Scriptable image processing system
+sleep	Delay for a specified time
+softwareupdate	Обновить программное обеспечение на компьютере.
+sort	Отсортировать содержимое текстовых файлов построчно
+source	Execute commands from a file •
+split	Разбить файл на части побайтно или построчно
+srm	Безопасное удаление секретных данных
+stop	Остановить задачу или процесс
+su	Заменить идентификатор пользователя.
+sudo	Выполнить команду от имени другого пользователя
+sum	Напечатать контрольную сумму и размер файла в блоках
+suspend	Suspend execution of this shell •
+sw_vers	Напечатать текущую версию операционной системы OS X
+system_profiler	Получить отчет о конфигурации вашего Apple Mac
+systemsetup	Изменить системные настройки компьютера
+T
+tail	Output the last part of files
+tar	Tape ARchiver
+tcpdump	Dump traffic on a network
+tee	Копировать данные из стандартного вывода в файлы
+test	Condition evaluation •
+textutil	Manipulate text files in various formats (Doc,html,rtf)
+time	Measure Program Resource Use
+times	Print shell & shell process times •
+tmutil	Управление параметрами Time Machine
+top	Показать процессы information
+touch	Изменить время обращения и изменения файла.
+tr	Заменить/удалить символы по заданному шаблону
+trap	Execute a command when the shell receives a signal •
+traceroute	Проследить маршрут к удаленному компьютеру
+true	Ничего не делает, Логическая "ИСТИНА"
+tty	Print filename of terminal on stdin
+type	Describe a command •
+U
+ufs.util	Смонтировать/размонтировать диск с файловой системой UFS
+ulimit	Расширенное управление системными ресурсами для пользователя •
+umask	Пользовательская маска файла
+umount	демонтировать устройство
+unalias	Удалить псевдоним команды •
+uname	Распечатать системную информацию.
+unexpand	Конвертировать пробелы в символы табуляции.
+uniq	Найти и вывести уникальные строки в файле.
+units	Convert units from one scale to another
+unset	Remove variable or function names •
+until	Создание цикла в bash
+uptime	Показать как долго Mac OS X работает без перезагрузки.
+users	Вывести на Terminal имена текущих пользователей в mac OS X
+uuencode	Encode a binary file
+uudecode	Decode a file created by uuencode
+uuidgen	Generate a Unique ID (UUID/GUID)
+uucp	Unix to Unix copy
+V
+vi	Текстовый редактор.
+vm_stat	Вывести информацию об использовании оперативной памяти.
+W
+wait	Wait for a process to complete •
+wc	Посчитать количество строк, слов, символов в файле
+whatis	Search the whatis database for complete words
+where	Report all known instances of a command
+which	Locate a program file in the user's path
+while	Команда выполнения цикла bash
+who	Вывести на экран список всех зарегистрированных пользователей
+whoami	Вывести на экран эффективный ID пользователя
+write	Отправить сообщение другому пользователю
+X
+xargs	Execute utility - passing arguments
+Y
+yes	Print a string until interrupted
+Z
+zip	Архивировать утилитой zip
